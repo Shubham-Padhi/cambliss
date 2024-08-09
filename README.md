@@ -1,3 +1,3 @@
 # Developer Padhi
 
-<h1 style="background-color⏰red">Cambliss Studio - Shubham padhi</h1>> 
+Cambliss Studio - Shubham padhi
